@@ -5,3 +5,10 @@ The repository contains Android Studio project. The application reads temperatur
 Clone the repository.
 
 Open the clone project with Android Studio.
+
+Find BlinkyActivity.java and open it. Then edit the following veriable values with your Avnet account details.
+```Java
+	String  cpId = "";
+	String uniqueId = "";
+	String env = "Avnet";
+```
